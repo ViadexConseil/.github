@@ -43,8 +43,8 @@ Viadex a été fondée par **Vincent Delacroix**,  fort de plus de **20 ans d'ex
 
 ## 🔗 Retrouvez-nous
 <p align="center">
-  🌐 **Site web** | [viadex.fr](https://viadex.fr)
-  💼 **LinkedIn** | [Vincent Delacroix](https://www.linkedin.com/in/vincentdelacroix/)
+  🌐 <strong>Site web</strong>| <a href="https://viadex.fr">viadex.fr</a> </br>
+  💼 <strong>LinkedIn</strong> | <a href="https://www.linkedin.com/in/vincentdelacroix/">Vincent Delacroix</a>
 </p>
 
 <p align="center">
