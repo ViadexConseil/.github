@@ -6,7 +6,7 @@ Viadex est un cabinet de conseil en intelligence artificielle basé à **Saint-G
 
 ---
 
-## 🚀 Ce que nous faisons
+## Ce que nous faisons
 
 Nous aidons les entreprises à adopter l'intelligence artificielle de manière pragmatique et adaptée à leurs enjeux métier :
 
@@ -17,7 +17,7 @@ Nous aidons les entreprises à adopter l'intelligence artificielle de manière p
 
 ---
 
-## 🎯 Notre approche
+## Notre approche
 
 Chez Viadex, nous croyons que la transformation par l'IA n'est pas qu'un sujet technologique — c'est avant tout un **levier de performance opérationnelle**. Notre force réside dans une double expertise rare : une connaissance approfondie du monde de l'entreprise (finance, processus, gestion du changement) alliée à une maîtrise des technologies d'intelligence artificielle. 
 
@@ -25,7 +25,7 @@ Nous agissons comme **facilitateurs** : nous identifions les leviers concrets po
 
 ---
 
-## 🏢 Secteurs & clients
+## Secteurs & clients
 
 Nous intervenons auprès d'organisations de toutes tailles et de tous secteurs :
 
@@ -35,7 +35,7 @@ Nous intervenons auprès d'organisations de toutes tailles et de tous secteurs :
 
 ---
 
-## 🧠 Expertise & parcours
+## Expertise & parcours
 
 Viadex a été fondée par **Vincent Delacroix**,  fort de plus de **20 ans d'expérience** en finance d'entreprise, gestion des processus et conduite du changement, complétés par un **Executive Master en Intelligence Artificielle**  de l'Institut Mines-Télécom Business School (IMT-BS). 
 
