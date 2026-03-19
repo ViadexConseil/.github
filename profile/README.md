@@ -42,20 +42,10 @@ Viadex a été fondée par **Vincent Delacroix**,  fort de plus de **20 ans d'ex
 ---
 
 ## 🔗 Retrouvez-nous
-
-| | |
-|---|---|
-| 🌐 **Site web** | [viadex.fr](https://viadex.fr) |
-| 💼 **LinkedIn** | [Vincent Delacroix](https://www.linkedin.com/in/vincentdelacroix/) |
-| 📍 **Localisation** | Saint-Grégoire · Rennes · Bretagne, France |
-
----
-
-## 📂 Nos dépôts
-
-Vous trouverez ici nos projets open source, outils, démonstrations et ressources liés à l'intelligence artificielle appliquée au monde de l'entreprise.
-
----
+<p align="center">
+  🌐 **Site web** | [viadex.fr](https://viadex.fr)
+  💼 **LinkedIn** | [Vincent Delacroix](https://www.linkedin.com/in/vincentdelacroix/)
+</p>
 
 <p align="center">
   <strong>Viadex</strong> · Conseil en Intelligence Artificielle · Bretagne, France<br>
