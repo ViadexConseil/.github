@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur le GitHub de Viadex
+# Bienvenue sur le GitHub de Viadex
 
 **L'IA sur-mesure pour votre entreprise.**
 
